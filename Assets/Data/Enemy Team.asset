@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf6835e3b7493942a962ddc8e7a4381, type: 3}
+  m_Name: Enemy Team
+  m_EditorClassIdentifier: 
+  turnBegin: {fileID: 11400000, guid: 410d337a1e9d60745bfb26cca5569945, type: 2}
+  turnEnd: {fileID: 11400000, guid: 1d7d69573b1af954b977042d565bb5ce, type: 2}

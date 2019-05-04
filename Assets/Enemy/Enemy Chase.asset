@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e8c44c62898a84086bd6dc5f3d187a, type: 3}
+  m_Name: Enemy Chase
+  m_EditorClassIdentifier: 
+  targetting: {fileID: 11400000, guid: 1937b4aafa88410448149b70616b5a15, type: 2}
+  actions:
+  - {fileID: 11400000, guid: 53287cd149ab1cf4ab9c15494d070544, type: 2}
+  - {fileID: 11400000, guid: 926fa15ea88d8064a9e7af530c4895bd, type: 2}
