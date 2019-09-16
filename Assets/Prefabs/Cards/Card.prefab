@@ -34,8 +34,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -2.9}
-  m_SizeDelta: {x: 23.22, y: 36.49}
+  m_AnchoredPosition: {x: 0, y: -5.09}
+  m_SizeDelta: {x: 50.47, y: 74.93}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7100350168820105607
 CanvasRenderer:
@@ -109,8 +109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 46, y: 74}
+  m_AnchoredPosition: {x: 0, y: -0.00039482}
+  m_SizeDelta: {x: 73.33, y: 115.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &570046743291372297
 CanvasRenderer:
@@ -183,8 +183,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 26.8}
-  m_SizeDelta: {x: 33.51, y: 8.72}
+  m_AnchoredPosition: {x: 0, y: 43}
+  m_SizeDelta: {x: 47.02, y: 12.33}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1939060120528502907
 CanvasRenderer:
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 7.8
+  m_fontSize: 11
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -345,8 +345,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 46.666668, y: 73.333336}
+  m_AnchoredPosition: {x: 0, y: 9.86}
+  m_SizeDelta: {x: 73.33, y: 105}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1256812774839999713
 CanvasRenderer:
@@ -434,8 +434,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 46, y: 74}
+  m_AnchoredPosition: {x: 0, y: 5.4167}
+  m_SizeDelta: {x: 73.33, y: 115.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2230298824870455266
 CanvasRenderer:

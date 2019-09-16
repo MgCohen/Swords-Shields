@@ -242,8 +242,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 69, y: -57}
-  m_SizeDelta: {x: 102.100006, y: 87}
+  m_AnchoredPosition: {x: 52.252, y: -42.7}
+  m_SizeDelta: {x: 68.605, y: 58.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &59613563
 MonoBehaviour:
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 72
+  m_fontSize: 52.35
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -482,8 +482,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 126}
-  m_SizeDelta: {x: 349.1, y: 125.7}
+  m_AnchoredPosition: {x: 0, y: 97}
+  m_SizeDelta: {x: 260, y: 108.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &100771586
 MonoBehaviour:
@@ -503,7 +503,7 @@ MonoBehaviour:
     m_Top: 0
     m_Bottom: 0
   m_ChildAlignment: 4
-  m_Spacing: 60
+  m_Spacing: 10
   m_ChildForceExpandWidth: 0
   m_ChildForceExpandHeight: 0
   m_ChildControlWidth: 0
@@ -692,7 +692,7 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 400, y: 650}
@@ -711,7 +711,7 @@ Canvas:
   m_GameObject: {fileID: 135721395}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -5132,8 +5132,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 29}
-  m_SizeDelta: {x: 175.9, y: 39.981}
+  m_AnchoredPosition: {x: 0, y: 18}
+  m_SizeDelta: {x: 134.4, y: 30.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1373310286
 MonoBehaviour:
@@ -6338,7 +6338,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 28.45
+  m_fontSize: 18.8
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -7374,8 +7374,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -73.289, y: -61.677002}
-  m_SizeDelta: {x: 90.577, y: 63.455}
+  m_AnchoredPosition: {x: -58.8, y: -51.6}
+  m_SizeDelta: {x: 61.7, y: 43.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1942880597
 MonoBehaviour:
